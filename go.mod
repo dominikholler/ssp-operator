@@ -7,13 +7,13 @@ require (
 	github.com/fsnotify/fsnotify v1.8.0
 	github.com/go-logr/logr v1.4.2
 	github.com/google/cel-go v0.22.1
-	github.com/kubevirt/monitoring/pkg/metrics/parser v0.0.0-20230706095033-373a95665d5a
+	github.com/kubevirt/monitoring/pkg/metrics/parser v0.0.0-20241226140715-d53462199536
 	github.com/machadovilaca/operator-observability v0.0.24
 	github.com/onsi/ginkgo/v2 v2.22.2
 	github.com/onsi/gomega v1.36.2
-	github.com/openshift/api v0.0.0-20240702171116-4b89b3a92a17 // release-4.16
+	github.com/openshift/api v0.0.0-20250115152744-52377f09e5c9 // release-4.16
 	github.com/openshift/custom-resource-status v1.1.2
-	github.com/openshift/library-go v0.0.0-20240711192904-190fec8c3f09 // release-4.16
+	github.com/openshift/library-go v0.0.0-20250116180413-7359be999c02 // release-4.16
 	github.com/operator-framework/api v0.29.0
 	github.com/operator-framework/operator-lib v0.17.0
 	github.com/prometheus-operator/prometheus-operator/pkg/apis/monitoring v0.79.2
@@ -34,7 +34,7 @@ require (
 	kubevirt.io/containerized-data-importer-api v1.61.0
 	kubevirt.io/controller-lifecycle-operator-sdk/api v0.2.4
 	kubevirt.io/qe-tools v0.1.8
-	kubevirt.io/ssp-operator/api v0.0.0
+	kubevirt.io/ssp-operator/api v0.22.2
 	kubevirt.io/vm-console-proxy/api v0.7.0
 	sigs.k8s.io/controller-runtime v0.20.0
 	sigs.k8s.io/yaml v1.4.0
